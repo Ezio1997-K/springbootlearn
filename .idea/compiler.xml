@@ -6,12 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot3-02-mybatis" />
         <module name="springboot3-01-start" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sppingboot3-02-mybatis" target="21" />
-      <module name="springboot3-02-mybatis" target="21" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

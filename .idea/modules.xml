@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot3-02-mybatis/springboot3-02-mybatis.iml" filepath="$PROJECT_DIR$/springboot3-02-mybatis/springboot3-02-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootlearn.iml" filepath="$PROJECT_DIR$/springbootlearn.iml" />
     </modules>
   </component>
