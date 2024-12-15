@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.learnspringboot</groupId>
-    <artifactId>spingboot3-02-mybatis</artifactId>
+    <artifactId>sppingboot3-02-mybatis</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spingboot3-02-mybatis</name>
     <description>spingboot3-02-mybatis</description>

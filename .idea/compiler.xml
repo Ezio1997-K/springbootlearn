@@ -6,7 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot3-02-mybatis" />
         <module name="spingboot3-02-mybatis" />
         <module name="springboot3-01-start" />
       </profile>
