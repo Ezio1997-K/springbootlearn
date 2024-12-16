@@ -1,3 +1,0 @@
-spring:
-  activemq:
-    non-blocking-redelivery: off
