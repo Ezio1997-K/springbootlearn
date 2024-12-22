@@ -7,7 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mmbatis-starter" />
         <module name="springboot3-01-start" />
+        <module name="springboot-03-resources" />
+        <module name="mmbatis-autoconfigure" />
       </profile>
       <profile name="Annotation profile for springboot3-02-mybatis" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -26,6 +29,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="sppingboot3-02-mybatis" options="-parameters" />
+      <module name="springboot-03-resources" options="-parameters" />
       <module name="springboot3-01-start" options="-parameters" />
       <module name="springboot3-02-mybatis" options="-parameters" />
     </option>

@@ -7,6 +7,9 @@
         <option value="$PROJECT_DIR$/springboot3-01-start/pom.xml" />
         <option value="$PROJECT_DIR$/springboot3-02-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/spingboot3-02-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-03-resources/pom.xml" />
+        <option value="$PROJECT_DIR$/mmbatis-autoconfigure/pom.xml" />
+        <option value="$PROJECT_DIR$/mmbatis-starter/pom.xml" />
       </list>
     </option>
   </component>
